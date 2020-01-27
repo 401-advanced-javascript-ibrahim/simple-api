@@ -1,0 +1,19 @@
+{
+  "categories": [
+    {
+      "_id": 1,
+      "name": "ibrahim",
+      "display_name": "Ajarmeh (updated)",
+      "description": "studying software development and in love with it"
+    }
+  ],
+  "products": [
+    {
+      "_id": 2,
+      "category": "ibrahim-hikari (updated)",
+      "name": "javascript",
+      "display_name": "web development",
+      "description": "an amazing field to study"
+    }
+  ]
+}
